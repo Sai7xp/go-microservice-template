@@ -1,1 +1,1 @@
-Golang Microservices template
+Template for Go Microservices
